@@ -1,4 +1,4 @@
-# Retail Customer Analytics — app vs website behaviour
+# Retail Customer Analytics — app vs website behavior
 
 Excel analysis of 1,000 retail customers, comparing how members behave depending on which channel
 they use (mobile app vs website) and how that maps to spending. Completed during my business-analyst
@@ -6,13 +6,13 @@ internship at OESON as a structured Excel project, then written up as a business
 
 ## The question
 
-Membership programmes usually assume a customer is a customer regardless of channel. This project
+Membership programs usually assume a customer is a customer regardless of channel. This project
 tested that assumption: do app users and website users differ in engagement and spend, and if so,
 where should the business put its retention and channel effort?
 
 ## Data
 
-`FyntraCustomerData.csv` — 1,000 customer records for a retail membership programme: average
+`FyntraCustomerData.csv` — 1,000 customer records for a retail membership program: average
 session length, membership duration, time spent on app vs website, and yearly amount spent.
 
 ## Method
